@@ -331,11 +331,11 @@ description: Generate AI photography collage image sets with Hasselblad, Leica, 
 
 ## 输出位置
 
-当需要在本地保存生成结果时，遵守用户的全局输出目录规则：
+当需要在本地保存生成结果时，遵守用户的全局输出目录规则，用 `<OUTPUT_ROOT>` 表示用户已配置的输出根目录：
 
-- 图片默认保存到 `D:\Codex_Outputs\images`
-- 过程稿保存到 `D:\Codex_Outputs\drafts`
-- 临时文件保存到 `D:\Codex_Outputs\temp`
-- 最终导出保存到 `D:\Codex_Outputs\exports`
+- 图片默认保存到 `<OUTPUT_ROOT>\images`
+- 过程稿保存到 `<OUTPUT_ROOT>\drafts`
+- 临时文件保存到 `<OUTPUT_ROOT>\temp`
+- 最终导出保存到 `<OUTPUT_ROOT>\exports`
 
-不要把新生成的大文件放到 C 盘、桌面或用户文档目录，除非用户明确要求。
+不要把新生成的大文件放到系统盘或个人文档目录，除非用户明确要求。

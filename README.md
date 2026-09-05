@@ -4,7 +4,7 @@
 
 把地点与相机气质组织成同主题的摄影组图，每个地点独立成图，强调主图权重与现场关系。
 
-**[快速开始](#start)** · **[下载与安装](#install)** · **[完整规则](fantasy-photography-simulation/SKILL.md)** · **[全部视觉 Skills](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3/blob/main/docs/FANTASY-COLLECTION.md)**
+**[快速开始](#start)** · **[下载与安装](#install)** · **[完整规则](fantasy-photography-simulation/SKILL.md)** · **[全部视觉 Skills](https://github.com/dacnay816y62-hub?tab=repositories)**
 
 | 视觉示例 01 | 视觉示例 02 |
 | :---: | :---: |
@@ -102,4 +102,4 @@ It explicitly avoids postcard aesthetics, tourism advertising, landmark checklis
 
 **让想象先被看见。** 将视觉判断与创作流程整理成可以继续使用的方法。
 
-**[浏览全部视觉 Skills](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3/blob/main/docs/FANTASY-COLLECTION.md)** · [车窗里的风景](https://github.com/dacnay816y62-hub/window-scenery-skill) · [CINEMA DNA](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)
+**[浏览全部视觉 Skills](https://github.com/dacnay816y62-hub?tab=repositories)** · [车窗里的风景](https://github.com/dacnay816y62-hub/window-scenery-skill) · [CINEMA DNA](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)
